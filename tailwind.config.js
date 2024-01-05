@@ -14,7 +14,8 @@ export default {
         'gray-2': '#A09FB1',
         'gray-3': '#6E707A',
         'gray-4': '#616475',
-        'gray-5': '#585676'
+        'gray-5': '#585676',
+        'yellow-1': '#FFEC65'
       }
     },
     fontFamily: {
